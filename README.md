@@ -1,2 +1,2 @@
 # Magic8Balls
- I created "Ask Me Anything" app.
+ I created "Ask Me Anything" app using Dart.
