@@ -1,3 +1,5 @@
-
 *.dart linguist-detectable=true  
+*.objective-c linguist-detectable=true  
+*.shell linguist-detectable=true  
+*.java linguist-detectable=true  
 *.makefile linguist-detectable=false  
