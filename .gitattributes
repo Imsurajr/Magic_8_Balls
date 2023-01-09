@@ -3,3 +3,4 @@
 *.Shell linguist-detectable=true  
 *.Java linguist-detectable=true  
 *.Makefile linguist-detectable=false  
+*.makefile linguist-detectable=false  
